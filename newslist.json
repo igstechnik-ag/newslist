@@ -1,0 +1,13 @@
+{
+    "newslist": [
+        {
+            "id": 1,
+            "publishDate": "2000-01-01",
+            "publishTime": "00:00",
+            "title": "Event-Template NICHT LÖSCHEN!",
+            "publisher": "Testname",
+            "description": "Test-Beschreibung",
+            "text": "Test-<strong>Text</strong>. <br>Zeilenumbrücke gehen auch!"
+        }
+    ]
+}

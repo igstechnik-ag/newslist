@@ -9,6 +9,16 @@
             "publisher": "Testname",
             "description": "Test-Beschreibung",
             "text": "Test-<strong>Text</strong>.<br>Zeilenumbrüche gehen auch!"
+        },
+        {
+            "id": 2,
+            "hidden": true,
+            "publishDate": "2026-11-23",
+            "publishTime": "00:00",
+            "title": "Willkommen auf der IGS-Technik Homepage",
+            "publisher": "IGS-Technik Team",
+            "description": "",
+            "text": "<p>Mit dieser Seite eröffnet die AG Technik ihre eigene Homepage. Sie bündelt an einem Ort, was bisher gefehlt hat: verlässliche Informationen über unsere Arbeit und einen Überblick über die Veranstaltungen an unserer Schule.</p><h3>Wer wir sind</h3><p>Die AG Technik findet in der Mittagsfreizeit statt und besteht aktuell aus vier Personen: Mika, Benas, Fynn und Herr Machinek. Wir übernehmen die Technik für Veranstaltungen an der Schule, sobald <strong>Ton, Video oder Licht</strong> gebraucht werden, und organisieren darüber hinaus gelegentlich eigene Veranstaltungen.</p><h3>Warum es diese Seite gibt</h3><p>Bisher war über die AG nur wenig zu erfahren, da sie nicht aktiv beworben wurde. Zudem gab es keinen Ort, an dem ausschließlich Schulveranstaltungen zu finden waren, die sowohl von Eltern als auch von Schülerinnen und Schülern besucht werden können. Beides soll diese Seite ändern.</p><h3>Was Sie hier finden</h3><ul><li><strong>Startseite:</strong> der erste Überblick über die AG und die Seite.</li><li><strong>Neuigkeiten:</strong> aktuelle Meldungen zur AG und zu anstehenden oder vergangenen Veranstaltungen.</li><li><strong>Veranstaltungen:</strong> alle kommenden Veranstaltungen im Überblick. Bei Veranstaltungen mit Anmeldung können Sie sich über eine Weiterleitung durch die Seite anmelden bzw. das Lineup ansehen.</li><li><strong>Über uns:</strong> Informationen über die AG und die Menschen dahinter.</li></ul><p>Die Seite richtet sich an alle: Schülerinnen und Schüler, Eltern, Lehrkräfte und alle weiteren Interessierten.</p><h3>Wie die Seite entstanden ist</h3><p>Die Homepage wurde hauptsächlich von Fynn gebaut, gestaltet und geplant. Bei der Planung und beim Design haben Mika, Benas und Herr Machinek maßgeblich mitgewirkt.</p><h3>Wie es weitergeht</h3><p>Die Seite wird kontinuierlich weiterentwickelt. Als Nächstes ist ein <strong>Archiv mit Veranstaltungsmedien</strong> geplant. Dort sollen zu vergangenen Veranstaltungen unter anderem Trailer, Videos und Ton-Alben angesehen und angehört werden können.</p><h3>Rückmeldungen</h3><p>Anregungen, Fragen oder Hinweise auf Fehler nehmen wir gern per E-Mail entgegen: <a href=\"mailto:ag-technik@igschule-ohz.de\">ag-technik@igschule-ohz.de</a></p><h3>Dank</h3><p>Unser Dank gilt Mika, Benas und Herrn Machinek für ihre Unterstützung bei Planung und Design. Ebenso danken wir Herrn Schlenker und Frau Kloppenborg, die diese Website und ihre Einbindung in die Schulhomepage möglich gemacht haben, sowie allen weiteren Personen, die geholfen haben, dieses Projekt zu verwirklichen.</p><p>Wir wünschen allen viel Freude beim Entdecken der Seite und freuen uns auf viele gemeinsame Veranstaltungen.</p>"
         }
     ]
 }
